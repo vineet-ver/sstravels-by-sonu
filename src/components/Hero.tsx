@@ -34,7 +34,7 @@ const Hero = () => {
                 Our Services
               </a>
               <a 
-                href="tel:+1234567890" 
+                href="tel:+918882586447" 
                 className="bg-transparent border-2 border-white text-white font-semibold px-6 py-3 rounded-full hover:bg-white hover:text-gray-900 transition-colors"
               >
                 Call Now
